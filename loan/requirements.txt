@@ -1,6 +1,6 @@
 scipy
 matplotlib
-streamlit==0.81.0
+streamlit
 imbalanced_learn
 seaborn
 pandas
