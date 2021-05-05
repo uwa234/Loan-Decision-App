@@ -1,0 +1,10 @@
+scipy
+matplotlib
+streamlit==0.81.1
+imbalanced_learn
+seaborn
+pandas
+numpy
+imblearn
+scikit_learn
+pandas-bokeh
